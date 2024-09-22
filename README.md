@@ -25,9 +25,11 @@ Tech Stack Used in eMetro Management System:
 Frontend:
 
 HTML & CSS: For structuring and styling the user interface.
+
 JavaScript: Adds interactivity, including real-time features like metro tracking and route planning.
 
 Backend:
 
 PHP/Java: Handles server-side scripting and manages communication between the frontend and database.
+
 MySQL: Used for storing and managing metro data, bookings, user information, and other relevant records.
